@@ -1,6 +1,6 @@
 # Proyecto 1 Computacion Emergente
 
-Proyecto realizado en python, basado en la competencia de Kaggle (Titanic: Machine Learning from Disaster)[https://www.kaggle.com/c/titanic] para el curso computacion emergente de la Universidad Metropolitana.
+Proyecto realizado en python, basado en la competencia de Kaggle [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) para el curso computacion emergente de la Universidad Metropolitana.
 
 ## Frameworks & Libs
 
